@@ -1,0 +1,49 @@
+{
+  "username": "kojied",
+  "name": "Reddit User",
+  "age": "Unknown",
+  "occupation": "iOS Developer",
+  "status": "Unknown",
+  "location": "New York City",
+  "tier": "Unknown",
+  "archetype": "Tech Savvy Urban Dweller",
+  "behaviour": [
+    "Regular bar-goer",
+    "Technology enthusiast",
+    "Active Reddit user",
+    "Invests in stocks and options",
+    "Enjoys discussing movies and pop culture",
+    "Discusses issues related to environmental sustainability and consumer behavior",
+    "Interested in virtual reality and spatial computing"
+  ],
+  "frustrations": [
+    "Changing neighborhood dynamics",
+    "Difficulty in integrating work into new platforms like AVP",
+    "Inconsistencies in app technologies",
+    "High prices of put options"
+  ],
+  "motivations": {
+    "Adapting to new technology": 8,
+    "Environmentally conscious consumerism": 7,
+    "Investment and financial planning": 7,
+    "Socializing and nightlife": 6
+  },
+  "goals": [
+    "Stay updated with latest technology",
+    "Successful trading in stocks and options",
+    "Sustainable and responsible consumerism",
+    "Improved user experience in apps and platforms"
+  ],
+  "personality": {
+    "Adventurous": 6,
+    "Tech-savvy": 9,
+    "Social": 6,
+    "Financially conscious": 7,
+    "Environmentally conscious": 7
+  },
+  "citations": {
+    "Reddit User Information": [
+      "https://www.reddit.com/user/"
+    ]
+  }
+}

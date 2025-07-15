@@ -1,0 +1,44 @@
+User Persona for kojied
+========================================
+Name: Reddit User
+Age: Unknown
+Occupation: iOS Developer
+Status: Unknown
+Location: New York City
+Tier: Unknown
+Archetype: Tech Savvy Urban Dweller
+
+BEHAVIOUR & HABITS:
+- Regular bar-goer
+- Technology enthusiast
+- Active Reddit user
+- Invests in stocks and options
+- Enjoys discussing movies and pop culture
+- Discusses issues related to environmental sustainability and consumer behavior
+- Interested in virtual reality and spatial computing
+
+FRUSTRATIONS:
+- Changing neighborhood dynamics
+- Difficulty in integrating work into new platforms like AVP
+- Inconsistencies in app technologies
+- High prices of put options
+
+MOTIVATIONS:
+- Adapting to new technology: 8
+- Environmentally conscious consumerism: 7
+- Investment and financial planning: 7
+- Socializing and nightlife: 6
+
+GOALS & NEEDS:
+- Stay updated with latest technology
+- Successful trading in stocks and options
+- Sustainable and responsible consumerism
+- Improved user experience in apps and platforms
+
+PERSONALITY:
+- Adventurous: 6
+- Tech-savvy: 9
+- Social: 6
+- Financially conscious: 7
+- Environmentally conscious: 7
+
