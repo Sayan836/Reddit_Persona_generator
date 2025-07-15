@@ -1,44 +1,81 @@
 User Persona for kojied
 ========================================
 Name: Reddit User
-Age: Unknown
-Occupation: iOS Developer
-Status: Unknown
-Location: New York City
-Tier: Unknown
-Archetype: Tech Savvy Urban Dweller
+Age: Not specified
+Occupation: iOS developer in visionOS, Environmental consultant, Options trader [8],[23],[25]
+Status: Single [1]
+Location: New York City [1]
+Tier: Not specified
+Archetype: Tech-savvy, Environmentally conscious, Financially active, Avid gamer
 
 BEHAVIOUR & HABITS:
-- Regular bar-goer
-- Technology enthusiast
-- Active Reddit user
-- Invests in stocks and options
-- Enjoys discussing movies and pop culture
-- Discusses issues related to environmental sustainability and consumer behavior
-- Interested in virtual reality and spatial computing
+- Posts regularly on Reddit [1-37]
+- Engages in discussions about technology, environmental issues, financial markets, and gaming [8,14,23,24,25,26,27,28,30,31,32,33,34,35,36]
+- Seeks advice from online communities [12,13,17,18,19,20,21,22]
 
 FRUSTRATIONS:
-- Changing neighborhood dynamics
-- Difficulty in integrating work into new platforms like AVP
-- Inconsistencies in app technologies
-- High prices of put options
+- Experiences discomfort with younger crowd infiltrating local bar [1]
+- Feels the need for more resources to catch up on new features of spatial computing [8]
+- Wants more apps and tools for work in AVP [14]
+- Struggles with maintaining plants [17,18,21]
+- Has issues with Robinhood's transfer limit [23]
+- Experiences difficulties with game mechanics in ManorLords [29,30,31,32,33,34]
 
 MOTIVATIONS:
-- Adapting to new technology: 8
-- Environmentally conscious consumerism: 7
-- Investment and financial planning: 7
-- Socializing and nightlife: 6
+- Socializing [7]
+- Learning [8]
+- Financial gains [9]
+- Gaming [6]
+- Environmental activism [8]
 
 GOALS & NEEDS:
-- Stay updated with latest technology
-- Successful trading in stocks and options
-- Sustainable and responsible consumerism
-- Improved user experience in apps and platforms
+- To understand and adapt to changing social dynamics in the city [1]
+- To grow professionally as an iOS developer [8]
+- To maximize financial gains from options trading [23,24,25,26]
+- To better manage plants [17,18,21]
 
 PERSONALITY:
-- Adventurous: 6
-- Tech-savvy: 9
-- Social: 6
-- Financially conscious: 7
-- Environmentally conscious: 7
+- Openness [8]
+- Conscientiousness [7]
+- Extraversion [6]
+- Agreeableness [5]
+- Neuroticism [4]
 
+REFERENCES:
+[1] https://www.reddit.com/r/newyorkcity/comments/1lykkqf/i_feel_violated_by_intern_season/
+[2] https://www.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/
+[3] https://www.reddit.com/r/AskReddit/comments/1hnx7lj/h1b_holders_do_you_feel_exploited_or_see_it_as_an/
+[4] https://www.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/
+[5] https://www.reddit.com/r/Conservative/comments/1h8ddbp/are_you_guys_foragainst_banning_tiktok_in_the_us/
+[6] https://www.reddit.com/r/GenZ/comments/1erotgn/whats_a_movie_that_best_represents_your_childhood/
+[7] https://v.redd.it/v4acixg6izlc1
+[8] https://www.reddit.com/r/visionosdev/comments/1b3yugb/best_blogs_tutorial_channels_to_learn/
+[9] https://www.youtube.com/watch?v=jChXtp56RVE
+[10] https://i.redd.it/jcvx9f59hdhc1.jpeg 
+[11] https://www.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/ 
+[12] https://www.reddit.com/r/VisionPro/comments/1ajbkqm/would_you_guys_like_to_see_pokemon_go_in_avp/ 
+[13] https://www.reddit.com/r/VisionPro/comments/1aiwqa2/can_you_actually_work_in_avp/ 
+[14] https://www.reddit.com/r/OnePiece/comments/18o4k0u/theory_what_if_we_live_in_the_void_800_century/ 
+[15] https://www.reddit.com/gallery/16tj525 
+[16] https://www.youtube.com/watch?v=O4cZbgyP9aU 
+[17] https://www.reddit.com/gallery/16dlrdq 
+[18] https://i.redd.it/0nv5o7221ilb1.jpg 
+[19] https://www.reddit.com/r/teenagers/comments/162xom3/do_you_guys_prefer_earphones_with_cables_why_or/ 
+[20] https://www.reddit.com/r/ClimateOffensive/comments/15xgmea/tracking_our_individual_impacts_on_the_world/ 
+[21] https://www.reddit.com/r/Frugal/comments/15szxcx/how_do_you_decide_what_to_buy_and_not_buy/ 
+[22] https://www.reddit.com/gallery/15pvycv 
+[23] https://i.redd.it/4k86rteua1za1.png 
+[24] https://www.reddit.com/r/Webull/comments/flf90r/50k_at_a_time/ 
+[25] https://www.reddit.com/r/stocks/comments/fk6aya/still_buying_options/ 
+[26] https://i.redd.it/sn6rlx5zslm41.jpg 
+[27] https://i.redd.it/7k1kxenokbm41.jpg 
+[28] https://www.reddit.com/r/China_Flu/comments/ffps9r/why_trump_probably_has_coronavirus/ 
+[29] https://www.reddit.com/r/wallstreetbets/comments/fddw2r/looking_beyond/ 
+[30] https://www.reddit.com/r/wallstreetbets/comments/fddvcr/will_robinhood_go_down_with_our_money/ 
+[31] https://www.reddit.com/r/stocks/comments/fawwgp/funeral_stocks_yay_or_nay/ 
+[32] https://reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/ 
+[33] https://reddit.com/r/ManorLords/comments/1lwfdh8/anyone_else_having_an_issue_where_their_trading/n2dn0vm/ 
+[34] https://reddit.com/r/ChatGPT/comments/1lvtwj3/i_used_ai_to_create_this_short_film_on_human/n2b07h0/ 
+[35] https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/ 
+[36] https://reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i52vu/ 
+[37] https://reddit.com/r/ManorLords/comments/1lscpmo/how_does_influence_on_hard_work/n1hhd7z/ 

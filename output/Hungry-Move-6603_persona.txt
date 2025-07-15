@@ -1,0 +1,44 @@
+User Persona for Hungry-Move-6603
+========================================
+Name: Reddit User
+Age: Not Available
+Occupation: Business [3]
+Status: Not Available
+Location: Lucknow [3]
+Tier: Not Available
+Archetype: Business owner [3]
+
+BEHAVIOUR & HABITS:
+- Discussing local occurrences [3, 4]
+- Experiences with police [5, 6]
+- Discussing food preferences [8, 14]
+- Opinions on physical appearances [15]
+
+FRUSTRATIONS:
+- High rents [4]
+- Corruption [5, 6]
+- Poor quality food [14]
+
+MOTIVATIONS:
+- Getting value for money [7]
+- Avoiding corruption [6]
+- Eating healthy [5]
+
+GOALS & NEEDS:
+- Business success [3]
+- Avoiding corruption [5, 6]
+- Healthier lifestyle [8, 14]
+
+PERSONALITY:
+- Outspoken [7]
+- Observant [8]
+- Pragmatic [6]
+
+REFERENCES:
+[1] [3] https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_
+[2] [4] https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g
+[3] [5] https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2yb
+[4] [6] https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7
+[5] [8] https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh
+[6] [14] https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2hv
+[7] [15] https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyik

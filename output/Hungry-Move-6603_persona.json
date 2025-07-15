@@ -1,0 +1,45 @@
+{
+  "username": "Hungry-Move-6603",
+  "name": "Reddit User",
+  "age": "Not Available",
+  "occupation": "Business [3]",
+  "status": "Not Available",
+  "location": "Lucknow [3]",
+  "tier": "Not Available",
+  "archetype": "Business owner [3]",
+  "behaviour": [
+    "Discussing local occurrences [3, 4]",
+    "Experiences with police [5, 6]",
+    "Discussing food preferences [8, 14]",
+    "Opinions on physical appearances [15]"
+  ],
+  "frustrations": [
+    "High rents [4]",
+    "Corruption [5, 6]",
+    "Poor quality food [14]"
+  ],
+  "motivations": {
+    "Getting value for money": 7,
+    "Avoiding corruption": 6,
+    "Eating healthy": 5
+  },
+  "goals": [
+    "Business success [3]",
+    "Avoiding corruption [5, 6]",
+    "Healthier lifestyle [8, 14]"
+  ],
+  "personality": {
+    "Outspoken": 7,
+    "Observant": 8,
+    "Pragmatic": 6
+  },
+  "references": [
+    "[3] https://www.reddit.com/r/lucknow/comments/1lwyhny/everyone_is_something_in_lko/",
+    "[4] https://reddit.com/r/lucknow/comments/1lzfhve/what_has_happened_to_malls_like_wave_one_awadh/n34g4ea/",
+    "[5] https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2ybup0/",
+    "[6] https://reddit.com/r/nagpur/comments/1lyb0p5/a_very_odd_experience/n2y7g0s/",
+    "[8] https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2kh3aq/",
+    "[14] https://reddit.com/r/lucknow/comments/1lwbwu9/any_tiffin_service_providing_high_quality_food/n2hvomb/",
+    "[15] https://reddit.com/r/amiugly/comments/16650bx/deleted_by_user/jyikpuz/"
+  ]
+}
